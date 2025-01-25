@@ -62,7 +62,7 @@ const MAP_TYPES = [     // Land generation controls and option presets for diffe
             5/8,
             -0.3,
             -0.3,
-            0.15
+            0.2
         ],
         optionPresets: {
             designations: 22
@@ -73,7 +73,7 @@ const MAP_TYPES = [     // Land generation controls and option presets for diffe
         form: "linear",
         landBiasFactors: [
             1/2,
-            0.15,
+            0.2,
             -0.3,
             -0.3
         ],
